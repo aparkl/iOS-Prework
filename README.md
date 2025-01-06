@@ -40,7 +40,7 @@ The following **required** functionality is completed:
 - Customizable 'Explore' filtering by user's interest
 
 **My Idea:**
-I hope to build a comprehensive task management app designed to help users track their time and gain analytical insights into their productivity. 
+I hope to build a comprehensive task management app designed to help users track their time and gain analytical insights into their productivity, with simple and modern design that iOS can easily offer.
 It will feature integrated timers to monitor the time spent on each task and provide options to review progress through intuitive visualizations. 
 It is designed to promote better habits by offering detailed analytics on task completion patterns, 
 helping users refine their time management and work toward their goals. 
